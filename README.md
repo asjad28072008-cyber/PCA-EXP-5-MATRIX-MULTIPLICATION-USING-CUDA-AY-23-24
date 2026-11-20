@@ -1,12 +1,12 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>AIM:</h3>
-### ENTER YOUR NAME:
+ENTER YOUR NAME:
 ### ENTER YOUR REGISTER NO : 
 ### EX. NO:
 ### DATE:
-<h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
-  Implement Matrix Multiplication using GPU.</h3>
-
+## MATRIX MULTIPLICATION USING CUDA 
+ ### Implement Matrix Multiplication using GPU.
+## hjg
 ## AIM:
 To perform Matrix Multiplication using CUDA and check its performance with nvprof.
 ## EQUIPMENTS REQUIRED:
